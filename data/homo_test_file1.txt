@@ -1,0 +1,4 @@
+ID start_x start_y student_num service_duration school_d school_y school_tw_st school_tw_end
+1 2 84 31 33 65 16 91 110
+2 78 29 59 37 65 16 91 110
+3 90 67 53 31 65 16 91 110

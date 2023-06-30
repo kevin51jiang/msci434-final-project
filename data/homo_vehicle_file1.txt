@@ -1,0 +1,4 @@
+Veh_ID depot_x depot_y capacity
+1 50 50 70
+2 50 50 70
+3 50 50 70
